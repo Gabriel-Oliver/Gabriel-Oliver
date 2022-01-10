@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on DNA Center 
 - 🌱 I’m currently learning NodeJS
-- 📫 How to reach me: gabriel-oliver-moura@outlook.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-%C3%B3liver-moura-527b41215/)](https://www.linkedin.com/in/gabriel-%C3%B3liver-moura-527b41215/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:gabriel-oliver-moura@outlook.com)](mailto:gabriel-oliver-moura@outlook.com)
