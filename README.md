@@ -1,6 +1,6 @@
 ### E ai, tudo belezinha?! Eu sou o Gabriel Óliver
 
-- 🔭 I’m currently working on DNA Center 
+- 🔭 I’m currently working on LOGAP I.T SOLUTIONS 
 - 🌱 I’m currently learning NodeJS
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-%C3%B3liver-moura-527b41215/)](https://www.linkedin.com/in/gabriel-%C3%B3liver-moura-527b41215/)
