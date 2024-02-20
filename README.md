@@ -1,7 +1,7 @@
 ### E ai, tudo belezinha?! Eu sou o Gabriel Óliver
 
 - 🔭 I’m currently working on LOGAP I.T SOLUTIONS 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning AngularJS and Java Spring Boot 3
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-%C3%B3liver-moura-527b41215/)](https://www.linkedin.com/in/gabriel-%C3%B3liver-moura-527b41215/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:gabriel-oliver-moura@outlook.com)](mailto:gabriel-oliver-moura@outlook.com)
